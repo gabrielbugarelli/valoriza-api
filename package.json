@@ -1,0 +1,28 @@
+{
+  "name": "valoriza-api",
+  "version": "1.0.0",
+  "description": "Workshop de NodeJS by Rocketseat 🔥🚀",
+  "main": "index.ts",
+  "scripts": {
+    "start": "ts-node-dev ./src/server.ts --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gabrielbugarelli/valoriza-api.git"
+  },
+  "keywords": [],
+  "author": "https://github.com/gabrielbugarelli",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gabrielbugarelli/valoriza-api/issues"
+  },
+  "homepage": "https://github.com/gabrielbugarelli/valoriza-api#readme",
+  "devDependencies": {
+    "@types/express": "^4.17.13",
+    "ts-node-dev": "^1.1.8",
+    "typescript": "^4.5.2"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
