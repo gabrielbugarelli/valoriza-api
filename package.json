@@ -4,7 +4,7 @@
   "description": "Workshop de NodeJS by Rocketseat 🔥🚀",
   "main": "ApplicationBootstrap.ts",
   "scripts": {
-    "start": "ts-node-dev ./src/server.ts --watch"
+    "start": "ts-node-dev ./src/ApplicationBootstrap.ts --watch"
   },
   "repository": {
     "type": "git",
