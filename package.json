@@ -2,7 +2,7 @@
   "name": "valoriza-api",
   "version": "1.0.0",
   "description": "Workshop de NodeJS by Rocketseat 🔥🚀",
-  "main": "index.ts",
+  "main": "ApplicationBootstrap.ts",
   "scripts": {
     "start": "ts-node-dev ./src/server.ts --watch"
   },
