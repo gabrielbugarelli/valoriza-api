@@ -1,4 +1,6 @@
 import express from "express";
+import "reflect-metadata";
+import "./database";
 
 const applicationBootstrap = express();
 const PORT = 8080;

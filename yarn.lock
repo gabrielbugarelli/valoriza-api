@@ -944,6 +944,11 @@
   dependencies:
     "readable-stream" "^3.0.0"
 
+"sqlite@^4.0.23":
+  "integrity" "sha512-dSdmSkrdIhUL7xP/fiEMfFuAo4dxb0afag3rK8T4Y9lYxE3g3fXT0J8H9qSFvmcKxnM0zEA8yvLbpdWQ8mom3g=="
+  "resolved" "https://registry.npmjs.org/sqlite/-/sqlite-4.0.23.tgz"
+  "version" "4.0.23"
+
 "statuses@>= 1.5.0 < 2", "statuses@~1.5.0":
   "integrity" "sha1-Fhx9rBd2Wf2YEfQ3cfqZOBR4Yow="
   "resolved" "https://registry.npmjs.org/statuses/-/statuses-1.5.0.tgz"
