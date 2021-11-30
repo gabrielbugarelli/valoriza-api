@@ -19,7 +19,9 @@
   },
   "homepage": "https://github.com/gabrielbugarelli/valoriza-api#readme",
   "devDependencies": {
+    "@types/bcryptjs": "^2.4.2",
     "@types/express": "^4.17.13",
+    "@types/jsonwebtoken": "^8.5.6",
     "pg": "^8.7.1",
     "reflect-metadata": "^0.1.13",
     "ts-node-dev": "^1.1.8",
@@ -29,9 +31,11 @@
   "dependencies": {
     "@fontsource/fira-code": "^4.5.2",
     "@types/uuid": "^8.3.3",
+    "bcryptjs": "^2.4.3",
     "express": "^4.17.1",
     "express-async-errors": "^3.1.1",
     "firacode": "^5.2.0",
+    "jsonwebtoken": "^8.5.1",
     "uuid": "^8.3.2"
   }
 }
