@@ -13,7 +13,6 @@ applicationBootstrap.use(router);
 
 applicationBootstrap.use(express.json());
 
-
 applicationBootstrap.use((error: Error, request: Request, response: Response, next: NextFunction) => {
   if(error instanceof Error) {
     return response.status(400).json({
